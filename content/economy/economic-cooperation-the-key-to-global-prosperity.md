@@ -1,11 +1,13 @@
 ---
- title: "Economic Cooperation: The Key to Global Prosperity" 
- description: In an interconnected world, economic cooperation among nations is essential for sustainable growth and stability. This post explores the importance of collaboration in addressing economic challenges and fostering prosperity for all. 
- image: /images/economy/economy.jpg 
- alt: Economy 
- author: Marcus Hale 
- edit: true 
- date: 2025-02-11T14:20:01+01:00 
+title: "Policistka Adéla: Vyřešila 20 let starý případ"
+description: Po dvou desetiletích nejistoty se díky vytrvalosti a důvtipu policistky 
+  Adély podařilo objasnit dávno odložený případ. Tento článek přibližuje její práci, 
+  odhodlání a význam pro spravedlnost. 
+image: /images/economy/policistka.JPG 
+alt: Economy 
+author: alex
+edit: true 
+date: 2025-02-11T14:20:01+01:00 
 
 ---
 Některé případy zůstávají roky v archivech, přestože rodiny obětí i veřejnost čekají na odpovědi. Jedním z nich byl i zločin z počátku tisíciletí, který se zdál být nadobro zapomenut. Až do chvíle, kdy se jej ujala policistka Adéla.

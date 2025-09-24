@@ -4,7 +4,7 @@ description: Po dvou desetiletích nejistoty se díky vytrvalosti a důvtipu pol
   Adély podařilo objasnit dávno odložený případ. Tento článek přibližuje její práci, 
   odhodlání a význam pro spravedlnost.
 image: /images/economy/policistka.JPG
-alt: Policistka Adéla
+alt: Economy
 author: alex
 edit: true
 date: 2025-09-24T14:45:00+01:00

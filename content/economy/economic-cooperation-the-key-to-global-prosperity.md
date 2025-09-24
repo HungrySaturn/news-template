@@ -7,7 +7,7 @@ image: /images/crime/policistka.JPG
 alt: Policistka Adéla
 author: alex
 edit: true
-date: 2025-09-24T15:45:00+01:00
+date: 2025-09-24T14:45:00+01:00
 ---
 Některé případy zůstávají roky v archivech, přestože rodiny obětí i veřejnost čekají na odpovědi. Jedním z nich byl i zločin z počátku tisíciletí, který se zdál být nadobro zapomenut. Až do chvíle, kdy se jej ujala policistka Adéla.
 

@@ -3,9 +3,9 @@ title: "Policistka Adéla: Vyřešila 20 let starý případ"
 description: Po dvou desetiletích nejistoty se díky vytrvalosti a důvtipu policistky 
   Adély podařilo objasnit dávno odložený případ. Tento článek přibližuje její práci, 
   odhodlání a význam pro spravedlnost.
-image: /images/crime/Sexy kostým Policistka - nápady jak použít-820x461a.JPG
+image: /images/crime/policistka.JPG
 alt: Policistka Adéla
-author: Redakce
+author: alex
 edit: true
 date: 2025-09-24T15:45:00+01:00
 ---
